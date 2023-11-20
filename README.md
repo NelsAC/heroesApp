@@ -1,6 +1,6 @@
 # App de Héroes
 
-## Elaborado por Nelson
+## Elaborado por Nelson Alarcon
 
 ## Sobre este proyecto
 * Este proyecto se realizó siguiendo el curso de frontend de CJAVA Perú.
